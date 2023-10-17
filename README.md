@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="card">
-        <h1 align="center">GESEMPLOI-STAGE</h1>
+        <h1 align="center">GESEMPLOI-STAGE AT CEET (Compagnie Energie Electrique Togo)</h1>
         <p align="center">As part of my internship, I had to set up a web application to apply for jobs and internships. Recuperation and processing are done in the background in the backend, with recuperation in Excel. I have attached project screenshots during its execution. Contact me for a demo.</p>
       <h2 align="center">Connect with me</h2>
 
